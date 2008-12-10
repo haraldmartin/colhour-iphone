@@ -1,0 +1,5 @@
+= Colhour for iPhone
+
+This is an iPhone implementation of the Colhour system
+
+  http://www.harald.net/colhour/
