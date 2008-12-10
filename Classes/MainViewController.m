@@ -18,7 +18,6 @@
 
 - (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil {
     if (self = [super initWithNibName:nibNameOrNil bundle:nibBundleOrNil]) {
-        // Custom initialization
 		
 		dayArray = [NSArray arrayWithObjects:
 					@"8300FF", @"6200FF", @"3F00FF", @"1F00FF", @"3F00FF", @"0043FF",

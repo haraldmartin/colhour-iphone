@@ -14,7 +14,6 @@
 	IBOutlet UIView *secondView;
 	
 	IBOutlet UILabel *timeLabel;
-//	IBOutlet UILabel *secLabel;
 	
 	NSArray *dayArray;
 	NSArray *hourArray;
