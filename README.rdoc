@@ -1,0 +1,8 @@
+<<<<<<< HEAD:README.rdoc
+=======
+== Colhour for iPhone
+
+This is an iPhone implementation of the Colhour system
+
+  http://www.harald.net/colhour/
+>>>>>>> c3315071955a9c70f0be79be5fb0686da906be64:README.rdoc
